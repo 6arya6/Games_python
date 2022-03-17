@@ -99,5 +99,6 @@ while True:
     make_x([-s,-s])
     reset_grid()
     turtle.done()
-    os._exit(1)
+    wn.bye()
+    break
 
